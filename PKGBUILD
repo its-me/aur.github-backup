@@ -1,4 +1,5 @@
 # Maintainer: Sergey Kanafyev <sergeykanafyev@gmail.com>
+# Contributor: Julien Nicoulaud <julien.nicoulaud@gmail.com>
 # Automation: https://github.com/its-me/aur.github-backup
 
 pkgname=github-backup
